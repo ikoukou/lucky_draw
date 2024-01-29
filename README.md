@@ -2,8 +2,7 @@
 python tkinter program for lucky draw
 
 1.
-ps_file 文件夹中的 psd 文件是用来编辑最终背景图的素材文件，希望借助它可以节省你的时间
-ps_file 只是用来参考的，与代码运行无关
+configs.py里配置了一些功能选项，包括按钮的大小，奖项的设置
 
 2.
 数据可以不通过导入表格，可自行修改获取数据方法
